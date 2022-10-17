@@ -292,7 +292,7 @@
     "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
     "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/tieba.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png"]
   }, {
-    "id": "52poje",
+    "id": "elm",
     "name": "饿了么",
     "keys": ["elmCookie"],
     "descs_html": [
